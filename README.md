@@ -1,6 +1,9 @@
 # Faulhaber
 Little python script that shows coefficients of Faulhaber's polynomials.
 
+# How to use it ?
+You need python 2.7. Just run polymat.py in its folder and open res.html in a browser.
+
 # Description
 Faulhaber's polynomials are compact forms of the sum of the powers of the nth first integers.
 Examples : 
